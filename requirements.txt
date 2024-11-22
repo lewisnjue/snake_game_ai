@@ -1,2 +1,5 @@
 pygame
 torch 
+numpy
+matplotlib
+ipython
